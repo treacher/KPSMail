@@ -1,0 +1,40 @@
+9
+
+dir
+117
+svn+ssh://treachmich@barretts.ecs.vuw.ac.nz/vol/projects/swen301_2011T1/s301t1/synergy/KPSMail
+svn+ssh://treachmich@barretts.ecs.vuw.ac.nz/vol/projects/swen301_2011T1/s301t1/synergy
+
+
+
+2011-06-03T03:42:19.450079Z
+117
+anderssean2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4fc76f86-f106-474e-975a-b85c909b347a
+
+kpsMail
+dir
+
+LogFile
+dir
+
+tests
+dir
+
+gui
+dir
+
